@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+<Targets>
+   <Target>
+      <branch>develop</branch>
+      <env>dev</env>
+   </Target>
+   <Target>
+      <branch>master</branch>
+      <env>prod</env>
+   </Target>
+</Targets>
+</properties>
