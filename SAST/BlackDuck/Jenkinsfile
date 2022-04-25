@@ -9,7 +9,7 @@ pipeline {
                 script {
                     def name = 'diego'
                     echo "$name"
-                    dir("scripts"){
+                    dir("scripts/gcloud"){
                         sh """
                             pwd
                             ls
