@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nbrna-0109-anthosperu-cfc55dcf",
+  "private_key_id": "18cd2aece853769b6a19347c8e1f4a16c6832c62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpwTA/tp7X/i8V\ndBE8YVqp1KUmFSoGSFyu5ophT8AZsX7wSpMKP/Q+sDlrn3WvIc5UumFOzIEb5kem\njkvklilUJjHSqcXeDR1KEysaM6Px9KoRZDJgNob8+OdbjvIeui5GKVSrS3awz17m\nlxl8gXMqmeTohA5cHfLcV+8o+cLbF7cKeEL4/e+AqGXTFMhrshO9xs8gvfQnbB8m\nNK8sh8/aaX3QkgRq/g/wHoQRCIEnn4cGZ6jrHN5zn7GXE+0cUGut6ks+22CpTSyq\nXJl+SQ7uo0rTze9B6UCBh+HY+tw9kN/DKuGr761oHVC2XaTpdiLY98dcNypJ38lq\n3f1f3ASbAgMBAAECggEAEUXXj3wZEJhMGS48vLyZOZOqFERuCMKfL6rEpN81CEg/\nxtqHuLDGPQS4awOIOYBCmut2EEsNzhVx7/glr8Y5wVa7lhhxSkViWBG4PovHoEyJ\na4ia+aBCvwXioLXcXBUMtVXqSB2/H4GSQftY/Aq9+bU8Dg612ViwyAvoiW5Uje9i\nzV+nIhgUGPHsLfsolBC0oftKAZmHX7h0nY4g8SzS96VNIvdKCvjdmC4fKhTzPyD5\nIHAG36GLQSRzoallkQnRB+lbyESZ4jrNP65kIN1QJs2DZ5DdDp55Xemx2PnR2kap\n9L5iWfY62VIX4MwjCHVxYf9u323euIOR9gwxl72IKQKBgQDePt5lwewT45ZMW1vs\nw8FKF/4ihmHofSCBu+KuJmzg+Fzn0cMPbZYkIAVky0NE9Xmk6qlmDihfEmDdgYJp\nQ0nEIazWTOq5TwKZPViHQ2wO1pbIRmKBlGXnBP2KKHab2POb41ha8prL9V9KoDSW\nhT4QIqM/NkbLQDmN4WuHQle24wKBgQDDiWta5IY6ZWynx/FsLwWp+BgGkqk/bH6y\nx1Qdku05m/V73G77qNtRN4LQc4HPiBMGMqfjK94j3xjoip3jCXCHqBiJtXstG6bd\nbBHq/HG9WXVJNvm7vk6pHEuzPeYET1Ok++Qks9HOoqx44AzFC3asVHG2eGjLDQQ1\n/C/tVhQw6QKBgQDEBLlNENQy2pm2sSGL20BBJJY+Rz5Vuv8PzfJp3XRMnGH9CTK9\nCc/R/vgi5XBogwYOYfaVD8mlyOTsmYy3YOTP+0+hF+gzFy/YjpXlf57wG26UKBg7\n5/JU5z7kOzoZzSlYBhXo6W+Ekt/ARzr6w3xw6MwJNcsM+5GHxRl9DBOnNwKBgClA\nWneocnDraMrUsagDG4zKHDd2xWHt/6SzzJkYoBdhQZ7J2FgbPXma3mwfkik4KdtK\n4IRagtjKfjTA2aJGIYlc+yBCOyQ/Cyr3W6hZbZ1mvAmgIXtsIKgoogfEbTxHh/vs\ncCsWDJMtWnl9uvPvATBF+F9oc6Myscq501qcqFHRAoGATTdoq1qrh8iKW9WAX0bA\nILZ500V4DLAv+u7BG3PEZ5Reu2mgiRXABnnG3u9mgJ7QwpSldtjjIMFJ5dype4vi\nQz/d+40rpKzyXrstm4vg02P4Nf/YIOgbv/ARl3sGCBVKQeIDE10gEW1IVfloheXg\noJSr62QNvwl2Q4IrPXDjkGE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nadvm-pullimage-dev@nbrna-0109-anthosperu-cfc55dcf.iam.gserviceaccount.com",
+  "client_id": "103248496698415467979",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nadvm-pullimage-dev%40nbrna-0109-anthosperu-cfc55dcf.iam.gserviceaccount.com"
+}

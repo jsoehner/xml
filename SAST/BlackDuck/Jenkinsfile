@@ -1,0 +1,16 @@
+#!groovy
+//@Library('onprem-shared-library@master') _
+
+pipeline {
+    agent any
+    stages {
+        stage('Get project information') {
+            steps {
+                script {
+                    def name = 'diego'
+                    echo "{$name}"
+                }
+            }
+        }
+    }
+}
