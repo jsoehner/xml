@@ -11,8 +11,7 @@ pipeline {
                     echo "$name"
                     dir("scripts/gcloud"){
                         sh """
-                            pwd
-                            ls
+                            sh set_gcloud_proxy.sh
                         """
                     }
                 }
