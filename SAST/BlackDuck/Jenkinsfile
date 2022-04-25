@@ -9,10 +9,12 @@ pipeline {
                 script {
                     def name = 'diego'
                     echo "$name"
-                    sh """
-                        pwd
-                        ls
-                    """
+                    dir("scripts"){
+                        sh """
+                            pwd
+                            ls
+                        """
+                    }
                 }
             }
         }
